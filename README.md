@@ -1,4 +1,4 @@
-PLZ NO HATE IM TOO LAZY TO MAKE README BYE
+Live Instance: https://tholoth.onrender.com/
 
 TODO:
 - [ ] Add some ahadith about this
