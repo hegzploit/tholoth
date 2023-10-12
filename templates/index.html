@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Prayer Times</title>
+</head>
+<body>
+    <div class="container">
+    <h1>الثلث الأخير من الليل</h1>
+    <p>الثلث الأخير من الوقت بين المغرب والفجر هو من <span>{{ last_third_start_time }}</span> إلى <span>{{ fajr_time }}</span>.</p>
+    </div>
+</body>
+</html>
